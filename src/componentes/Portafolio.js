@@ -23,11 +23,11 @@ export default function Portafolio() {
       <div className="container">
         <div className="card">
           <div className="imgBx">
-            <img src={breiner} />
+            <img src={breiner} alt="..." />
           </div>
           <div className="contentBx">
             <h2>Breiner</h2>
-            <a href="#">Perfil</a>
+            <a href="https://lorainnenava.github.io/breiner/">Perfil</a>
           </div>
         </div>
       </div>
@@ -37,7 +37,7 @@ export default function Portafolio() {
       <div className="container">
         <div className="card">
           <div className="imgBx">
-            <img src={franco} />
+            <img src={franco} alt="..." />
           </div>
           <div className="contentBx">
             <h2>Franco</h2>
@@ -51,11 +51,11 @@ export default function Portafolio() {
       <div className="container">
         <div className="card">
           <div className="imgBx">
-            <img src={jasil} />
+            <img src={jasil} alt="..." />
           </div>
           <div className="contentBx">
             <h2>Jasil</h2>
-            <a href="#">Perfil</a>
+            <a href="https://lorainnenava.github.io/jasil/">Perfil</a>
           </div>
         </div>
       </div>
@@ -65,11 +65,11 @@ export default function Portafolio() {
       <div className="container">
         <div className="card">
           <div className="imgBx">
-            <img src={jose} />
+            <img src={jose} alt="..." />
           </div>
           <div className="contentBx">
             <h2>Jose</h2>
-            <a href="#">Perfil</a>
+            <a href="https://lorainnenava.github.io/jose/">Perfil</a>
           </div>
         </div>
       </div>
@@ -81,7 +81,7 @@ export default function Portafolio() {
       <div className="container">
         <div className="card">
           <div className="imgBx">
-            <img src={liseth} />
+            <img src={liseth} alt="..." />
           </div>
           <div className="contentBx">
             <h2>Liseth</h2>
@@ -95,11 +95,11 @@ export default function Portafolio() {
       <div className="container">
         <div className="card">
           <div className="imgBx">
-            <img src={lorainne} />
+            <img src={lorainne} alt="..." />
           </div>
           <div className="contentBx">
             <h2>Lorainne</h2>
-            <a href="#">Perfil</a>
+            <a href="https://lorainnenava.github.io/lorainne/">Perfil</a>
           </div>
         </div>
       </div>
@@ -109,11 +109,11 @@ export default function Portafolio() {
       <div className="container">
         <div className="card">
           <div className="imgBx">
-            <img src={luisCamilo} />
+            <img src={luisCamilo} alt="..." />
           </div>
           <div className="contentBx">
             <h2>Luis Camilo</h2>
-            <a href="https://cool-meerkat-4b0179.netlify.app/">Perfil</a>
+            <a href="https://cool-meerkat-4b0179.netlify.app/" >Perfil</a>
           </div>
         </div>
       </div>
@@ -123,7 +123,7 @@ export default function Portafolio() {
       <div className="container">
         <div className="card">
           <div className="imgBx">
-            <img src={luisFlorez} />
+            <img src={luisFlorez} alt="..." />
           </div>
           <div className="contentBx">
             <h2>Luis Florez</h2>
@@ -139,11 +139,11 @@ export default function Portafolio() {
       <div className="container">
         <div className="card">
           <div className="imgBx">
-            <img src={luisH} />
+            <img src={luisH} alt="..." />
           </div>
           <div className="contentBx">
             <h2>Luis H</h2>
-            <a href="#">Perfil</a>
+            <a href="https://lorainnenava.github.io/luis/">Perfil</a>
           </div>
         </div>
       </div>
@@ -153,11 +153,11 @@ export default function Portafolio() {
       <div className="container">
         <div className="card">
           <div className="imgBx">
-            <img src={melany} />
+            <img src={melany} alt="..." />
           </div>
           <div className="contentBx">
             <h2>Melany</h2>
-            <a href="#">Perfil</a>
+            <a href="https://willowy-kangaroo-4152bb.netlify.app/">Perfil</a>
           </div>
         </div>
       </div>
@@ -167,11 +167,11 @@ export default function Portafolio() {
       <div className="container">
         <div className="card">
           <div className="imgBx">
-            <img src={miguel} />
+            <img src={miguel} alt="..." />
           </div>
           <div className="contentBx">
             <h2>Miguel</h2>
-            <a href="#">Perfil</a>
+            <a href="https://lorainnenava.github.io/miguel/#contenedor1">Perfil</a>
           </div>
         </div>
       </div>
@@ -181,7 +181,7 @@ export default function Portafolio() {
       <div className="container">
         <div className="card">
           <div className="imgBx">
-            <img src={morris} />
+            <img src={morris} alt="..." />
           </div>
           <div className="contentBx">
             <h2>Guillermo</h2>
@@ -196,11 +196,11 @@ export default function Portafolio() {
     <div className="container">
       <div className="card">
         <div className="imgBx">
-          <img src={robert} />
+          <img src={robert} alt="..." />
         </div>
         <div className="contentBx">
           <h2>Robert</h2>
-          <a >Perfil</a>
+          <a href="https://lorainnenava.github.io/robert/" >Perfil</a>
         </div>
       </div>
     </div>

@@ -10,7 +10,7 @@ function App() {
   return (
     <>
     <Navbar />
-      <Container>
+      <Container className='container-general'>
         <Routes>
           <Route path='/' element={<Home/>} />
           <Route path='/portafolio' element={<Portafolio/>} />
